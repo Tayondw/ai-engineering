@@ -2,7 +2,7 @@
 
 Welcome to my personal repository documenting my journey learning AI Engineering! This repo serves as both a learning log and a demonstration of my growing skills in building production-ready AI systems.
 
-## 🎯 About This Repository
+## About This Repository
 
 I created this repository to showcase my learning progress as I work through AI Engineering concepts from fundamentals to production deployment. Each module represents a milestone in my understanding of LLMs, RAG systems, agents, and MLOps practices.
 
@@ -14,12 +14,12 @@ I created this repository to showcase my learning progress as I work through AI 
 
 ---
 
-## 📈 My Learning Progress
+## My Learning Progress
 
-### ✅ Completed Modules
+### Completed Modules
 *None yet - just getting started!*
 
-### 🔄 Currently Working On
+### Currently Working On
 **Module 1: Introduction to Generative AI Development** - Setting up my foundation in GenAI and exploring the development landscape
 
 ### 📋 Upcoming
@@ -52,7 +52,7 @@ I created this repository to showcase my learning progress as I work through AI 
 
 ---
 
-## 🛤️ My Learning Path
+## My Learning Path
 
 ### **Module 1: Introduction to Generative AI Development**
 *Understanding the GenAI landscape and setting up my development environment*
@@ -152,7 +152,7 @@ I created this repository to showcase my learning progress as I work through AI 
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## Technologies I'm Learning
 
 **Core Frameworks:**
 - **LangChain** for LLM application development
@@ -168,7 +168,7 @@ I created this repository to showcase my learning progress as I work through AI 
 
 ---
 
-## 📝 Learning Notes & Insights
+## Learning Notes & Insights
 
 I document my learning process, including:
 - **Challenges I've faced** and how I overcame them
@@ -181,7 +181,7 @@ I document my learning process, including:
 
 ---
 
-## 🚀 Projects & Experiments
+## Projects & Experiments
 
 As I progress through my learning, I build increasingly complex projects:
 
@@ -204,7 +204,7 @@ As I progress through my learning, I build increasingly complex projects:
 
 ---
 
-## 🎯 My Goals
+## My Goals
 
 **Short-term (3-6 months):**
 - Complete all 12 modules with hands-on projects
@@ -218,7 +218,7 @@ As I progress through my learning, I build increasingly complex projects:
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 I'm always interested in connecting with other AI engineering learners and practitioners!
 
@@ -230,7 +230,7 @@ I'm always interested in connecting with other AI engineering learners and pract
 
 ---
 
-## 📚 Resources I'm Finding Helpful
+## Resources I'm Finding Helpful
 
 *I'll update this list as I discover valuable learning resources*
 
@@ -250,7 +250,7 @@ I'm always interested in connecting with other AI engineering learners and pract
 
 ---
 
-## 🔄 Current Status
+## Current Status
 
 **Last Updated:** August 1, 2025
 
