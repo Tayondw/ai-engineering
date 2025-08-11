@@ -22,14 +22,14 @@ I created this repository to showcase my learning progress as I work through AI 
 ### Currently Working On
 **Module 1: Introduction to Generative AI Development** - Setting up my foundation in GenAI and exploring the development landscape
 
-### 📋 Upcoming
+### Upcoming
 - Module 2: Fundamentals of LLM Architecture
 - Module 3: Advanced Prompt Engineering
 - Module 4: The Building Blocks of RAG
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 ├── modules/
